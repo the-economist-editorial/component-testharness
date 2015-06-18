@@ -1,0 +1,19 @@
+{
+  "name": "@economist/component-testharness",
+  "version": "1.0.0",
+  "description": "Component TestHarness for rapidly bootstrapping a test suite",
+  "author": "The Economist Editorial (https://economist.com)",
+  "license": "LicenseRef-LICENSE",
+  "repository": "git://github.com/the-economist-editorial/component-testharness",
+  "homepage": "http://the-economist-editorial.github.io/component-testharness",
+  "bugs": "http://github.com/the-economist-editorial/component-testharness/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chai": "^3.0.0",
+    "chai-as-promised": "^5.1.0",
+    "chai-things": "^0.2.0"
+  }
+}
