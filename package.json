@@ -1,6 +1,6 @@
 {
   "name": "@economist/component-testharness",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Component TestHarness for rapidly bootstrapping a test suite",
   "author": "The Economist Editorial (https://economist.com)",
   "license": "LicenseRef-LICENSE",
